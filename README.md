@@ -34,14 +34,5 @@ sudoku input_hex3.txt
 ###### output will be written to input1_output.txt
 
 
-> 3 2 4 6 9 7 5 1 8 
-6 5 7 1 8 4 3 2 9 
-1 9 8 3 5 2 7 6 4 
-8 6 5 7 2 9 4 3 1 
-4 3 9 8 1 6 2 5 7 
-2 7 1 4 3 5 9 8 6 
-5 4 2 9 6 1 8 7 3 
-7 1 3 2 4 8 6 9 5 
-9 8 6 5 7 3 1 4 2 
 
 [![Sudoku](https://github.com/mayura1996/Sudoku-Solver/blob/main/Outputs/2021-06-25%2011_32_25-C__Windows_System32_cmd.exe.png "Sudoku")](https://github.com/mayura1996/Sudoku-Solver/blob/main/Outputs/2021-06-25%2011_32_25-C__Windows_System32_cmd.exe.png "Sudoku")
